@@ -1,8 +1,6 @@
 # Food Delivery Logistics Analysis
 
-### Data Source
-The dataset used in this analysis is sourced from Kaggle: 
-[Food Delivery Indonesia Analysis](https://www.kaggle.com/code/boiniabhiram/fooddelivery-indonesia-analysis)
+
 
 ### Project Overview
 This project analyzes 8,500 food delivery records to identify the main causes of delays. As a former courier with 5,000+ deliveries, I used Python to verify if my professional intuition matches the data.
